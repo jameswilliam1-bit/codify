@@ -58,9 +58,3 @@ cd client/
 ```bash
 npm start
 ```
-
-## Credits
-
-* NER Annotator -  https://github.com/tecoholic/ner-annotator
-* `spacy` - https://github.com/explosion/spaCy
-* Custom NER for Extracting Disease Entities Blog - https://medium.com/analytics-vidhya/custom-ner-for-extracting-disease-entities-c620aca2e1bb
